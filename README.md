@@ -8,7 +8,7 @@ electron Zeeman interaction is dominating. No restrictions were made on the rela
 Zeeman and nqc splittings, the latter for nuclei with I>½.
 The code is written in Fortran77 except for a few lines to read the computer clock (subroutine gettim available in
 Microsoft Fortran Powerstation). Diagonalisation of the Hamiltonian Hi’ can be performed numerically for any
-nuclear spin in the range ½ <= I <= 9/2. An analytic treatment available for nuclei with I=1/2, 1, and 3/2 [3] is ca 30 %
+nuclear spin in the range ½ <= I <= 9/2. An analytic treatment available for nuclei with I=1/2, 1, and 3/2 [7] is ca 30 %
 faster.  Any comments or suggestions on this version may be sent to:
 Roland Erickson, Sweden, E-mail:roland.erickson@comhem.se
 Anders Lund Linköping University, Department of Physics, Chemistry and Biology, Linköping University, Husett, S-581 83 Linköping,
@@ -23,5 +23,14 @@ ENDOR and ESEEM Studies of Radicals in Single Crystal and Disordered Solids, Lin
 Science and Technology, PhD Thesis No 391, ISBN 91-7871-582-2, Linköping, Sweden
 2. Erickson R (1996) Simulation of ENDOR spectra of radicals with anisotropic hyperfine and nuclear
 quadrupolar couplings in disordered solids. Chem Phys 202:263-275
-3. Erickson R, Lund A (1991) Analytical Expressions of Magnetic Energies and Wavefunctions of
+3. Erickson R, Lund A, Lindgren M (1995) Analysis of powder EPR and ENDOR spectra of the biphenyl
+radical cation on H-ZSM-5 zeolite, silica gel and in CFCl3 matrix Chem Phys 193:89-99
+4. Erickson R, Benetis NP, Lund A, Lindgren M, (1997) Radical cation of naphthalene on H-ZSM-5 zeolite
+and in CFCl3 matrix. A theoretical and experimental EPR, ENDOR, and ESEEM study. J Phys Chem A
+101:2390 –2396
+5. Lund A, Erickson R (1998) EPR and ENDOR simulations for disordered systems: The balance between
+efficiency and accuracy. Acta Chem Scand 52:261–274
+6. Erickson R, Lund A (2014) Applications of EPR and ENDOR Spectrum Simulations in Radiation
+Research. In Lund A, Shiotani M (eds) Applications of EPR in Radiation Research. Springer
+7. Erickson R, Lund A (1991) Analytical Expressions of Magnetic Energies and Wavefunctions of
 Paramagnetic Systems with S=1/2 and I=1 or I=3/2. J Magn Reson 92:146-151
