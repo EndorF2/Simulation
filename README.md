@@ -16,7 +16,8 @@ Sweden, Email: anders.lund@liu.se
 
 The program is also available on a homepage of Linköping University, https://old.liu.se/simarc/downloads?l=en, where other EPR simulation programs are also available for download.
 
-Example input files for ENDORF2 simulation of powder ENDOR spectra of free radicals, including biphenyl radical cation, 14NO-ligated ferrocytochrome c heme a3 and irradiated hippuric acid are available on the repository. 
+Example input files for ENDORF2 simulation of powder ENDOR spectra of free radicals, including biphenyl radical cation, 14NO-ligated ferrocytochrome c heme a3 and irradiated hippuric acid are included in the ENDORF2 packages on the repository.
+
 For comparative purposes input datafiles for powder simulation with exact diagonalisation using the externally available matlab programme Easyspin [https://www.easyspin.org] are also available, together with simulation results. These include the biphenyl and naphthalene radical cations, 14NO-ligated ferrocytochrome c heme a3 and irradiated hippuric acid. 
 
 References
