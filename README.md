@@ -1,5 +1,5 @@
 # Simulation
-ENDOR simulation program for single crystal and disordered samples
+ENDORF2 simulation program for single crystal and disordered samples
 The program is based on theory presented in [1, 2] for the simulation of single crystal and ‘powder’ ENDOR
 spectra. It was written with the purpose of analyzing spectra of free radicals for a general case when the nuclear
 quadrupole (nqc) and hyperfine (hfc) couplings of a nucleus may be of comparable magnitude.
@@ -15,6 +15,9 @@ Anders Lund Linköping University, Department of Physics, Chemistry and Biology,
 Sweden, Email: anders.lund@liu.se
 
 The program is also available on a homepage of Linköping University, https://old.liu.se/simarc/downloads?l=en, where other EPR simulation programs are also available for download.
+
+Example input files for ENDORF2 simulation of powder ENDOR spectra of free radicals, including biphenyl radical cation, 14NO-ligated ferrocytochrome c heme a3 and irradiated hippuric acid are available on the repository. 
+For comparative purposes input datafiles for powder simulation with exact diagonalisation using the externally available matlab programme Easyspin [https://www.easyspin.org] are also available, together with simulation results. These include the biphenyl and naphthalene radical cations, 14NO-ligated ferrocytochrome c heme a3 and irradiated hippuric acid. 
 
 References
 
