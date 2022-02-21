@@ -10,7 +10,7 @@ The code is written in Fortran77 except for a few lines to read the computer clo
 Microsoft Fortran Powerstation). Diagonalisation of the Hamiltonian Hi’ can be performed numerically for any
 nuclear spin in the range ½ <= I <= 9/2. An analytic treatment available for nuclei with I=1/2, 1, and 3/2 [7] is ca 30 %
 faster.  Any comments or suggestions on this version may be sent to:
-Roland Erickson, Sweden, E-mail:roland.erickson@comhem.se
+Roland Erickson, Sweden, E-mail:roland.j.erickson@outlook.com
 Anders Lund Linköping University, Department of Physics, Chemistry and Biology, Linköping University, Husett, S-581 83 Linköping,
 Sweden, Email: anders.lund@liu.se
 
